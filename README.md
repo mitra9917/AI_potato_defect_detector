@@ -1,1 +1,2 @@
-# AI_potato_defect_detector
+# dsprint
+
